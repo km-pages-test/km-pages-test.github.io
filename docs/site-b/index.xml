@@ -7,5 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="https://km-pages-test.github.io/site-b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foo</title>
+      <link>https://km-pages-test.github.io/site-b/foo/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://km-pages-test.github.io/site-b/foo/index.html</guid>
+      <description>The Foo page
+Link to the Bar page.</description>
+    </item>
+    <item>
+      <title>Bar</title>
+      <link>https://km-pages-test.github.io/site-b/bar/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://km-pages-test.github.io/site-b/bar/index.html</guid>
+      <description>The Bar page.
+Link to the Foo page.</description>
+    </item>
   </channel>
 </rss>

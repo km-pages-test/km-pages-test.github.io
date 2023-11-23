@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foo on Site B</title>
+    <link>https://km-pages-test.github.io/site-b/foo/index.html</link>
+    <description>Recent content in Foo on Site B</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://km-pages-test.github.io/site-b/foo/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
