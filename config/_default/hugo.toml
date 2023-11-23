@@ -1,0 +1,12 @@
+languageCode = 'en-us'
+theme = 'relearn'
+
+[params]
+
+themeVariant = ["relearn-dark", "relearn-light"]
+
+# Hide the Home entry.
+# Default: false
+# If shown, a Home button will appear below the search bar and the main menu.
+# It links to your the home page of the current language.
+disableLandingPageButton = true

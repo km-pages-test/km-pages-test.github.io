@@ -1,0 +1,12 @@
+baseURL = 'https://example.org/'
+# languageCode = 'en-us'
+title = 'Site B'
+
+# theme='relearn'
+
+contentDir = 'websites/site-b/content'
+publishDir = 'public/site-b'
+
+# [params]
+
+# themeVariant = ["relearn-dark", "relearn-light"]
