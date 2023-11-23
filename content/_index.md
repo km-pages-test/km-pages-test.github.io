@@ -4,4 +4,9 @@ archetype: home
 ---
 
 
-Main site
+Main site.
+
+
+- Link to [Site A](site-a).
+
+- Link to [Site B](site-b).
