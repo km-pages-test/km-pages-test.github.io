@@ -5,7 +5,7 @@ title = 'Site B'
 # theme='relearn'
 
 contentDir = 'websites/site-b/content'
-publishDir = 'public/site-b'
+publishDir = 'docs/site-b'
 
 # [params]
 
