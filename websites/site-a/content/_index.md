@@ -4,4 +4,6 @@ archetype: home
 ---
 
 
-Site A ...
+Site A ... 
+
+Is deploying with GitHub Actions working?
