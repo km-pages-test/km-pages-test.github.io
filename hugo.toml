@@ -1,7 +1,2 @@
-baseURL = 'https://example.org/'
-# languageCode = 'en-us'
+baseURL = 'https://km-pages-test.github.io/'
 title = 'Main site A'
-
-# Required for GitHub pages
-publishDir = 'docs'
-
