@@ -4,4 +4,4 @@ archetype: home
 ---
 
 
-Site B goes here ...
+Site B goes here ... yada, yada, yada.
