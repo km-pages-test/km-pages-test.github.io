@@ -2,9 +2,6 @@ baseURL = 'https://example.org/'
 # languageCode = 'en-us'
 title = 'Main site A'
 
-# theme='relearn'
-
-#contentDir = 'websites/site-a/content'
-
 # Required for GitHub pages
 publishDir = 'docs'
+

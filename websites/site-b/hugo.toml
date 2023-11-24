@@ -1,12 +1,6 @@
 baseURL = 'https://km-pages-test.github.io/site-b/'
-# languageCode = 'en-us'
+
 title = 'Site B'
 
-# theme='relearn'
-
 contentDir = 'websites/site-b/content'
-publishDir = 'docs/site-b'
-
-# [params]
-
-# themeVariant = ["relearn-dark", "relearn-light"]
+publishDir = 'public/site-b'
